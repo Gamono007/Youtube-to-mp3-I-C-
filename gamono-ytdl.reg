@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\gamono-ytdl]
+@="URL:Gamono YTDL Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\gamono-ytdl\shell\open\command]
+@="\"D:\\Documentos\\Documents\\GamonoYTDL\\GamonoYTDL\\publish\\GamonoYTDL.exe\" \"%1\""
